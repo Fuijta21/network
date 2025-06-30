@@ -15,7 +15,7 @@ __[astah*プラグインSDK1.6をダウンロード]__ ボタンから Plug-in S
 
 
 ### 2.JAVAをインストール(特別なverである必要があるためすでにインストール済みの方も要確認)
-1. [ADOPTIUM]()から `8.0.402+6` を探す(astahの公式サイトからシステム要件を参照し、対応するJavaを探す。例はversion9.2の時のJava)
+1. [[ADOPTIUM](https://adoptium.net/temurin/nightly/)]()から `8.0.402+6` を探す(astahの公式サイトからシステム要件を参照し、対応するJavaを探す。例はversion9.2の時のJava)
 3. 環境に適したインストーラーをダウンロード(往々にしてWindows x64 JDK)
 4. インストーラーに沿ってインストール
 
